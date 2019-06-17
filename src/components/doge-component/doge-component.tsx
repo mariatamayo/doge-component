@@ -5,7 +5,7 @@ import { Component, h } from '@stencil/core';
 	styleUrl: 'doge-component.css',
 	shadow: true,
 })
-export class MyComponent {
+export class DogeComponent {
 	public render() {
 		return (
 			<img
