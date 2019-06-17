@@ -1,0 +1,4 @@
+.doge-img {
+  width: var(--width-primary, 500px);
+  height: var(--height-primary, 500px);
+}
