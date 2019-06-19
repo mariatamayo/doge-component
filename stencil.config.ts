@@ -2,6 +2,9 @@ import { Config } from '@stencil/core';
 
 export const config: Config = {
   namespace: 'doge',
+  nodeResolve: {
+    browser: true
+  },
   outputTargets: [
     {
       type: 'dist',
@@ -16,3 +19,5 @@ export const config: Config = {
     }
   ]
 };
+
+

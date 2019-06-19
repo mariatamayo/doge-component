@@ -1,5 +1,5 @@
 {
-  "name": "doge",
+  "name": "doge-component",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
@@ -23,5 +23,17 @@
   "devDependencies": {
     "@stencil/core": "1.0.0-beta.8"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariatamayo/doge-component.git"
+  },
+  "author": "maria tamayo",
+  "bugs": {
+    "url": "https://github.com/mariatamayo/doge-component/issues"
+  },
+  "homepage": "https://github.com/mariatamayo/doge-component#readme"
 }
