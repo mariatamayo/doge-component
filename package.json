@@ -1,6 +1,6 @@
 {
   "name": "doge-component",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -35,5 +35,8 @@
   "bugs": {
     "url": "https://github.com/mariatamayo/doge-component/issues"
   },
-  "homepage": "https://github.com/mariatamayo/doge-component#readme"
+  "homepage": "https://github.com/mariatamayo/doge-component#readme",
+  "keywords": [
+    "doge"
+  ]
 }
